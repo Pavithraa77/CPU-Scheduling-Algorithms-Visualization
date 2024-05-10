@@ -37,8 +37,8 @@ body {
 #time_quanta {
   background-image: linear-gradient(
     to left,
-    rgb(255, 255, 255),
-    rgb(159, 204, 252)
+    rgb(5, 0, 81) 55.7%,
+    rgb(5, 0, 81) 55.7%
   );
 }
 .process-table {
