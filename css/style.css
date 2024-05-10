@@ -69,6 +69,7 @@ body {
 
 #time_quanta {
   width: auto;
+  background-color: navy;
 }
 
 #start_btn {
