@@ -11,6 +11,15 @@ This project is a web-based visualizer for CPU scheduling algorithms. It provide
 5. Priority Scheduling - Preemptive
 6. Priority Scheduling - Non-Preemptive
 
+## External Libraries
+
+The project uses several external libraries and frameworks:
+
+- [Bootstrap 5.0.0](https://getbootstrap.com/) - For responsive design and UI components.
+- [jQuery 3.6.0](https://jquery.com/) - For simplifying JavaScript operations.
+- [Google Fonts](https://fonts.google.com/) - For custom fonts.
+- [Font Awesome](https://fontawesome.com/) - For icons.
+
 ## Features
 
 - **Add, Edit, Remove Processes:** Allows you to manage the list of processes including their arrival times, burst times, priorities, and other relevant parameters.
