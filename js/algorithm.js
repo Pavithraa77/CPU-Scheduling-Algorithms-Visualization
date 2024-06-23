@@ -580,7 +580,7 @@ async function priorityNonPre(flag) {
       }
     }
     if (flag) {
-      $("#vis_name").empty().append("Priority (non pre)");
+      $("#vis_name").empty().append("Priority (Non Pre-emptive)");
       $("#vis_rq").empty().html(vis_block);
       $("#vis_cpu")
         .empty()
